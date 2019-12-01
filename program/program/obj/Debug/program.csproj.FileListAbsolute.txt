@@ -1,0 +1,12 @@
+C:\tupa_uchoba\5_semestr\WS\pozhiloytest\program\program\bin\Debug\program.exe.config
+C:\tupa_uchoba\5_semestr\WS\pozhiloytest\program\program\bin\Debug\program.exe
+C:\tupa_uchoba\5_semestr\WS\pozhiloytest\program\program\bin\Debug\program.pdb
+C:\tupa_uchoba\5_semestr\WS\pozhiloytest\program\program\obj\Debug\program.csprojAssemblyReference.cache
+C:\tupa_uchoba\5_semestr\WS\pozhiloytest\program\program\obj\Debug\program.Form1.resources
+C:\tupa_uchoba\5_semestr\WS\pozhiloytest\program\program\obj\Debug\program.Properties.Resources.resources
+C:\tupa_uchoba\5_semestr\WS\pozhiloytest\program\program\obj\Debug\program.csproj.GenerateResource.cache
+C:\tupa_uchoba\5_semestr\WS\pozhiloytest\program\program\obj\Debug\program.csproj.CoreCompileInputs.cache
+C:\tupa_uchoba\5_semestr\WS\pozhiloytest\program\program\obj\Debug\program.exe
+C:\tupa_uchoba\5_semestr\WS\pozhiloytest\program\program\obj\Debug\program.pdb
+C:\tupa_uchoba\5_semestr\WS\pozhiloytest\program\program\obj\Debug\program.Admin.resources
+C:\tupa_uchoba\5_semestr\WS\pozhiloytest\program\program\obj\Debug\program.Registration.resources
